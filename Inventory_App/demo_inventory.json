@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "name": "Laptop",
+      "price": 55000,
+      "quantity": 8
+    },
+    {
+      "product_id": 2,
+      "name": "Mouse",
+      "price": 550,
+      "quantity": 45
+    },
+    {
+      "product_id": 3,
+      "name": "Keyboard",
+      "price": 1500,
+      "quantity": 2
+    }
+  ],
+  "customers": [
+    {
+      "customer_id": 1,
+      "name": "Asha",
+      "email": "asha@example.com"
+    },
+    {
+      "customer_id": 2,
+      "name": "Ravi",
+      "email": "ravi.new@example.com"
+    }
+  ],
+  "orders": [
+    {
+      "order_id": 1,
+      "customer_id": 1,
+      "items": [
+        {
+          "product_id": 1,
+          "name": "Laptop",
+          "price": 55000,
+          "quantity": 2
+        },
+        {
+          "product_id": 2,
+          "name": "Mouse",
+          "price": 550,
+          "quantity": 5
+        }
+      ],
+      "date": "2026-10-04 02:42:04"
+    },
+    {
+      "order_id": 2,
+      "customer_id": 2,
+      "items": [
+        {
+          "product_id": 3,
+          "name": "Keyboard",
+          "price": 1500,
+          "quantity": 1
+        },
+        {
+          "product_id": 4,
+          "name": "Monitor",
+          "price": 12000,
+          "quantity": 2
+        }
+      ],
+      "date": "2026-10-04 02:42:04"
+    }
+  ],
+  "next_product_id": 5,
+  "next_customer_id": 3,
+  "next_order_id": 3
+}

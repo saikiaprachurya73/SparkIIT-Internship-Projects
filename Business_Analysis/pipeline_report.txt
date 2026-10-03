@@ -1,0 +1,30 @@
+=======================================================
+SALES ANALYSIS REPORT
+Generated on: 2026-10-04 03:15
+=======================================================
+
+OVERVIEW
+  Orders analysed:    1000
+  Period covered:     2025-01-01 to 2025-12-31
+  Total revenue:      Rs.91,287,100
+  Average order:      Rs.91,287
+  Median order:       Rs.51,300
+  Average rating:     3.04 / 5
+
+TOP PERFORMERS
+  Best product:   Laptop (Rs.47,676,750)
+  Best category:  Computers (Rs.57,273,150)
+  Best region:    North (Rs.25,069,900)
+  Best month:     2025-01 (Rs.9,521,725)
+  Weakest month:  2025-04 (Rs.5,599,275)
+
+REVENUE BY PRODUCT
+  Laptop       Rs.  47,676,750   (52.2%)
+  Phone        Rs.  18,132,500   (19.9%)
+  Tablet       Rs.  12,784,500   (14.0%)
+  Monitor      Rs.   9,596,400   (10.5%)
+  Headphones   Rs.   1,979,375   (2.2%)
+  Keyboard     Rs.   1,117,575   (1.2%)
+
+DATA QUALITY NOTE
+  Orders with unknown region: 25

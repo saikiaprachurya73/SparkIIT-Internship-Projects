@@ -1,0 +1,5 @@
+order_id,date,customer,product,quantity,unit_price,line_total
+1,2026-10-04 02:42:04,Asha,Laptop,2,55000,110000
+1,2026-10-04 02:42:04,Asha,Mouse,5,550,2750
+2,2026-10-04 02:42:04,Ravi,Keyboard,1,1500,1500
+2,2026-10-04 02:42:04,Ravi,Monitor,2,12000,24000
